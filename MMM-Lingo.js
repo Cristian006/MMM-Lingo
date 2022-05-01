@@ -120,7 +120,7 @@ Module.register('MMM-Lingo', {
           heading.classList.add('heading');
           heading.innerHTML = this.wordSet['category']
 
-
+          wrapper.appendChild(heading);
           wrapper.appendChild(word);
 
           if (this.config.showTimeLeft) {

@@ -134,7 +134,7 @@ Module.register('MMM-Lingo', {
                   span.classList.add('relax');
               }
               let countdownWidth = 100;
-              const countdownStep = Math.floor(100 / (this.config[`${this.word}Timeout`] / 1000));
+              const countdownStep = Math.floor(100 / (this.config[`${this.word}Timeout`] / this.config.updateInterval));
               span.style.width = `${countdownWidth}%`;
 
               Log.info(countdownStep);

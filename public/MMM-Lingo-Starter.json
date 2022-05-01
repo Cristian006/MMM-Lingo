@@ -1,0 +1,7002 @@
+[
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "sí",
+    "foreignWord": "yes",
+    "category": "The Essentials"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "no",
+    "foreignWord": "no",
+    "category": "The Essentials"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "¿entiende(s)?",
+    "foreignWord": "do you understand?",
+    "category": "The Essentials"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "no entiendo",
+    "foreignWord": "i don’t understand",
+    "category": "The Essentials"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "no (lo) sé",
+    "foreignWord": "i don’t know",
+    "category": "The Essentials"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "no tengo ni idea",
+    "foreignWord": "i have no idea",
+    "category": "The Essentials"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "no hablo español",
+    "foreignWord": "i don’t speak spanish",
+    "category": "The Essentials"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "estoy perdido(a)",
+    "foreignWord": "i’m lost",
+    "category": "The Essentials"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "me llamo",
+    "foreignWord": "my name is",
+    "category": "Introduce Yourself"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "mi nombre es",
+    "foreignWord": "my name is",
+    "category": "Introduce Yourself"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "soy…",
+    "foreignWord": "i’m…",
+    "category": "Introduce Yourself"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "¿cómo te llamas?",
+    "foreignWord": "what is your name?",
+    "category": "Introduce Yourself"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "(yo) soy de…",
+    "foreignWord": "i am from…",
+    "category": "Introduce Yourself"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "¿cómo está usted?",
+    "foreignWord": "how are you? (formal)",
+    "category": "What’s Up"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "¿cómo estás?",
+    "foreignWord": "how are you? (informal)",
+    "category": "What’s Up"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "¿qué tal?",
+    "foreignWord": "how are you? (informal) / what’s up?",
+    "category": "What’s Up"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "¿cómo te va?",
+    "foreignWord": "how ‘s it going?",
+    "category": "What’s Up"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "¿qué haces?",
+    "foreignWord": "what are you doing?",
+    "category": "What’s Up"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "¿qué pasa?",
+    "foreignWord": "what ‘s happening?",
+    "category": "What’s Up"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "¿y tú?",
+    "foreignWord": "and you?",
+    "category": "Responses"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "muy bien",
+    "foreignWord": "very well",
+    "category": "Responses"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "así, así",
+    "foreignWord": "so, so",
+    "category": "Responses"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "mal",
+    "foreignWord": "bad",
+    "category": "Responses"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "como siempre",
+    "foreignWord": "as always",
+    "category": "Responses"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "¡de nada!",
+    "foreignWord": "you’re welcome! / no problem!",
+    "category": "Etiquette Words"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "por favor",
+    "foreignWord": "please",
+    "category": "Etiquette Words"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "¡perdon!",
+    "foreignWord": "excuse me!",
+    "category": "Etiquette Words"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "¡disculpe!",
+    "foreignWord": "excuse me!",
+    "category": "Etiquette Words"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "¡lo siento!",
+    "foreignWord": "sorry!",
+    "category": "Etiquette Words"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "gracias",
+    "foreignWord": "thank you",
+    "category": "Etiquette Words"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "salud",
+    "foreignWord": "bless you",
+    "category": "Etiquette Words"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "¿qué…?",
+    "foreignWord": "what?",
+    "category": "Question Words"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "¿quién…?",
+    "foreignWord": "who?",
+    "category": "Question Words"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "¿cuándo…?",
+    "foreignWord": "when?",
+    "category": "Question Words"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "¿dónde…?",
+    "foreignWord": "where?",
+    "category": "Question Words"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "¿por qué…?",
+    "foreignWord": "why?",
+    "category": "Question Words"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "¿cuál?",
+    "foreignWord": "which?",
+    "category": "Question Words"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "¿cómo…?",
+    "foreignWord": "how?",
+    "category": "Question Words"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "Yo",
+    "foreignWord": "I",
+    "category": "Spanish Pronouns"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "tú (informal)",
+    "foreignWord": "you",
+    "category": "Spanish Pronouns"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "usted (formal)",
+    "foreignWord": "you",
+    "category": "Spanish Pronouns"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "él",
+    "foreignWord": "he",
+    "category": "Spanish Pronouns"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "ella",
+    "foreignWord": "she",
+    "category": "Spanish Pronouns"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "nosotros/nosotras",
+    "foreignWord": "we",
+    "category": "Spanish Pronouns"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "ustedes",
+    "foreignWord": "you all",
+    "category": "Spanish Pronouns"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "ellos",
+    "foreignWord": "they",
+    "category": "Spanish Pronouns"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "ellas(females)",
+    "foreignWord": "they",
+    "category": "Spanish Pronouns"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "hola",
+    "foreignWord": "hello",
+    "category": "Greetings"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "buenos días",
+    "foreignWord": "good morning",
+    "category": "Greetings"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "buenas tardes",
+    "foreignWord": "good afternoon",
+    "category": "Greetings"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "buenas noches",
+    "foreignWord": "good evening / good night",
+    "category": "Greetings"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "(yo) tengo … años",
+    "foreignWord": "i am … years old.",
+    "category": "Talking About Age"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "old",
+    "foreignWord": "viejo/a",
+    "category": "Talking About Age"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "young",
+    "foreignWord": "joven",
+    "category": "Talking About Age"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "middle-aged",
+    "foreignWord": "de mediana edad",
+    "category": "Talking About Age"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "youthful",
+    "foreignWord": "juvenil",
+    "category": "Talking About Age"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "nuevo/a –",
+    "foreignWord": "new",
+    "category": "Talking About Age"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "¡feliz cumpleaños!",
+    "foreignWord": "happy birthday!",
+    "category": "Celebrate!"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "¡felicitaciones!",
+    "foreignWord": "congratulations!",
+    "category": "Celebrate!"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "¡diviértete!",
+    "foreignWord": "have fun!",
+    "category": "Celebrate!"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "¡buen provecho!",
+    "foreignWord": "bon appetit!",
+    "category": "Celebrate!"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "¡bienvenidos! / ¡bienvenidas!",
+    "foreignWord": "welcome!",
+    "category": "Celebrate!"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "salud!",
+    "foreignWord": "cheers!",
+    "category": "Celebrate!"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "adiós",
+    "foreignWord": "goodbye",
+    "category": "Say Good-Bye"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "chao",
+    "foreignWord": "goodbye",
+    "category": "Say Good-Bye"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "hasta luego",
+    "foreignWord": "see you later (most likely today)",
+    "category": "Say Good-Bye"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "hasta mañana",
+    "foreignWord": "see you tomorrow",
+    "category": "Say Good-Bye"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "nos vemos",
+    "foreignWord": "see you (informal)",
+    "category": "Say Good-Bye"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "¡cuídate mucho!",
+    "foreignWord": "take care!",
+    "category": "Say Good-Bye"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "¡tenga un buen día!",
+    "foreignWord": "have a nice day!",
+    "category": "Say Good-Bye"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "¡hasta luego!",
+    "foreignWord": "see you soon!",
+    "category": "Say Good-Bye"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "¡buen viaje!",
+    "foreignWord": "have a good trip!",
+    "category": "Say Good-Bye"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "Domingo",
+    "foreignWord": "Sunday",
+    "category": "Days of the Week"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "Lunes",
+    "foreignWord": "Monday",
+    "category": "Days of the Week"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "Martes",
+    "foreignWord": "Tuesday",
+    "category": "Days of the Week"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "Miércoles",
+    "foreignWord": "Wednesday",
+    "category": "Days of the Week"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "Jueves",
+    "foreignWord": "Thursday",
+    "category": "Days of the Week"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "Viernes",
+    "foreignWord": "Friday",
+    "category": "Days of the Week"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "Sabado",
+    "foreignWord": "Saturday",
+    "category": "Days of the Week"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "Enero",
+    "foreignWord": "January",
+    "category": "Months of the Year"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "Febrero",
+    "foreignWord": "February",
+    "category": "Months of the Year"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "Marzo",
+    "foreignWord": "March",
+    "category": "Months of the Year"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "Abril",
+    "foreignWord": "April",
+    "category": "Months of the Year"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "Mayo",
+    "foreignWord": "May",
+    "category": "Months of the Year"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "Junio",
+    "foreignWord": "June",
+    "category": "Months of the Year"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "Julio",
+    "foreignWord": "July",
+    "category": "Months of the Year"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "Agosto",
+    "foreignWord": "August",
+    "category": "Months of the Year"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "Septiembre",
+    "foreignWord": "September",
+    "category": "Months of the Year"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "Octubre",
+    "foreignWord": "October",
+    "category": "Months of the Year"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "Noviembre",
+    "foreignWord": "November",
+    "category": "Months of the Year"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "Diciembre",
+    "foreignWord": "December",
+    "category": "Months of the Year"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "anteayer",
+    "foreignWord": "day before yesterday",
+    "category": "Other Time Words"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "ayer",
+    "foreignWord": "yesterday",
+    "category": "Other Time Words"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el año",
+    "foreignWord": "year",
+    "category": "Other Time Words"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el día",
+    "foreignWord": "day",
+    "category": "Other Time Words"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el mes",
+    "foreignWord": "month",
+    "category": "Other Time Words"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el siglo",
+    "foreignWord": "century",
+    "category": "Other Time Words"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la hora",
+    "foreignWord": "hour",
+    "category": "Other Time Words"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "hoy",
+    "foreignWord": "today",
+    "category": "Other Time Words"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la semana",
+    "foreignWord": "week",
+    "category": "Other Time Words"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "madrugada",
+    "foreignWord": "dawn, very early in the morning",
+    "category": "Other Time Words"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "mañana",
+    "foreignWord": "tomorrow",
+    "category": "Other Time Words"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "mañana",
+    "foreignWord": "morning",
+    "category": "Other Time Words"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "medianoche",
+    "foreignWord": "midnight",
+    "category": "Other Time Words"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "mediodia",
+    "foreignWord": "noon",
+    "category": "Other Time Words"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el minuto",
+    "foreignWord": "minute",
+    "category": "Other Time Words"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la noche",
+    "foreignWord": "night",
+    "category": "Other Time Words"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el pasado mañana",
+    "foreignWord": "day after tomorrow",
+    "category": "Other Time Words"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "los segundos",
+    "foreignWord": "seconds",
+    "category": "Other Time Words"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la tarde",
+    "foreignWord": "afternoon",
+    "category": "Other Time Words"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el padre",
+    "foreignWord": "father",
+    "category": "Nuclear Family"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el papá",
+    "foreignWord": "dad",
+    "category": "Nuclear Family"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la madre",
+    "foreignWord": "mother",
+    "category": "Nuclear Family"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la mamá",
+    "foreignWord": "mom",
+    "category": "Nuclear Family"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el hermano",
+    "foreignWord": "brother",
+    "category": "Nuclear Family"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la hermana",
+    "foreignWord": "sister",
+    "category": "Nuclear Family"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el hijo",
+    "foreignWord": "son",
+    "category": "Nuclear Family"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la hija",
+    "foreignWord": "daughter",
+    "category": "Nuclear Family"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la familia cercana",
+    "foreignWord": "close family",
+    "category": "Nuclear Family"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el abuelo",
+    "foreignWord": "grandfather",
+    "category": "Extended Family"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la abuela",
+    "foreignWord": "grandmother",
+    "category": "Extended Family"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el bisabuelo",
+    "foreignWord": "great-grandfather",
+    "category": "Extended Family"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la bisabuela",
+    "foreignWord": "great-grandmother",
+    "category": "Extended Family"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la nieta",
+    "foreignWord": "granddaughter",
+    "category": "Extended Family"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el nieto",
+    "foreignWord": "grandson",
+    "category": "Extended Family"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el tío",
+    "foreignWord": "uncle",
+    "category": "Extended Family"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la tía",
+    "foreignWord": "aunt",
+    "category": "Extended Family"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el tío abuelo",
+    "foreignWord": "great-uncle",
+    "category": "Extended Family"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la tía abuela",
+    "foreignWord": "great-aunt",
+    "category": "Extended Family"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el primo",
+    "foreignWord": "cousin (male)",
+    "category": "Extended Family"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la prima",
+    "foreignWord": "cousin (female)",
+    "category": "Extended Family"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "mis parientes",
+    "foreignWord": "my relatives",
+    "category": "Extended Family"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "abrazar",
+    "foreignWord": "to hug",
+    "category": "Family Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "amar",
+    "foreignWord": "to love",
+    "category": "Family Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "reír",
+    "foreignWord": "to laugh",
+    "category": "Family Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "perdonar",
+    "foreignWord": "to forgive",
+    "category": "Family Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "empezar",
+    "foreignWord": "to start",
+    "category": "Action Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "seguir",
+    "foreignWord": "to follow",
+    "category": "Action Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "abrir",
+    "foreignWord": "to open",
+    "category": "Action Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "buscar",
+    "foreignWord": "to search",
+    "category": "Action Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "cantar",
+    "foreignWord": "to sing",
+    "category": "Action Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "cerrar",
+    "foreignWord": "to close",
+    "category": "Action Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "destruir",
+    "foreignWord": "to destroy",
+    "category": "Action Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "dormir",
+    "foreignWord": "to sleep",
+    "category": "Action Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "encontrar",
+    "foreignWord": "to find",
+    "category": "Action Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "esconder",
+    "foreignWord": "to hide",
+    "category": "Action Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "esperar",
+    "foreignWord": "to wait",
+    "category": "Action Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "faltar",
+    "foreignWord": "to miss",
+    "category": "Action Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "hacer",
+    "foreignWord": "to do",
+    "category": "Action Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "intentar",
+    "foreignWord": "to try",
+    "category": "Action Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "llamar",
+    "foreignWord": "to call",
+    "category": "Action Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "llevar",
+    "foreignWord": "to take",
+    "category": "Action Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "llorar",
+    "foreignWord": "to cry",
+    "category": "Action Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "luchar",
+    "foreignWord": "to fight",
+    "category": "Action Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "mentir",
+    "foreignWord": "to lie",
+    "category": "Action Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "odiar",
+    "foreignWord": "to hate",
+    "category": "Action Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "recibir",
+    "foreignWord": "to receive",
+    "category": "Action Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "reconocer",
+    "foreignWord": "to recognize",
+    "category": "Action Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "robar",
+    "foreignWord": "to steal",
+    "category": "Action Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "salvar",
+    "foreignWord": "to save",
+    "category": "Action Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "sonreír",
+    "foreignWord": "to smile",
+    "category": "Action Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "soñar",
+    "foreignWord": "to dream",
+    "category": "Action Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "tomar",
+    "foreignWord": "to take",
+    "category": "Action Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "Vivir",
+    "foreignWord": "to live",
+    "category": "Action Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "tranquilo/a –",
+    "foreignWord": "quiet",
+    "category": "Sound"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "ruidoso/a –",
+    "foreignWord": "loud",
+    "category": "Sound"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "gritar",
+    "foreignWord": "to shout",
+    "category": "Sound"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "escuchar",
+    "foreignWord": "to hear",
+    "category": "Sound"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "silencio",
+    "foreignWord": "silence",
+    "category": "Sound"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "alto",
+    "foreignWord": "loud",
+    "category": "Sound"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "bajo",
+    "foreignWord": "soft",
+    "category": "Sound"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "ensordecedor",
+    "foreignWord": "deafening",
+    "category": "Sound"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "agudo",
+    "foreignWord": "sharp, high-pitched",
+    "category": "Sound"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "grave",
+    "foreignWord": "low-pitched",
+    "category": "Sound"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "melodioso",
+    "foreignWord": "melodious",
+    "category": "Sound"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "armónico",
+    "foreignWord": "harmonic",
+    "category": "Sound"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "zumbido",
+    "foreignWord": "buzz",
+    "category": "Sound"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "",
+    "foreignWord": "sordodeaf",
+    "category": "Sound"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "duro de oíd",
+    "foreignWord": "hard of hearing",
+    "category": "Sound"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "oído fino",
+    "foreignWord": "acute hearing",
+    "category": "Sound"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "problemas de audición",
+    "foreignWord": "hearing-impaired",
+    "category": "Sound"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "fuera de alcance",
+    "foreignWord": "out of earshot",
+    "category": "Sound"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "ver",
+    "foreignWord": "to see",
+    "category": "Sight"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "mirar",
+    "foreignWord": "to look",
+    "category": "Sight"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "de colores",
+    "foreignWord": "colorful",
+    "category": "Sight"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "blanco y negro",
+    "foreignWord": "black and white",
+    "category": "Sight"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "brillante",
+    "foreignWord": "bright",
+    "category": "Sight"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "apagado",
+    "foreignWord": "dim",
+    "category": "Sight"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "claro",
+    "foreignWord": "light",
+    "category": "Sight"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "oscuro",
+    "foreignWord": "dark",
+    "category": "Sight"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "",
+    "foreignWord": "ciegoblind",
+    "category": "Sight"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "mirar fijamente",
+    "foreignWord": "to stare",
+    "category": "Sight"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "echar un vistazo",
+    "foreignWord": "to glance",
+    "category": "Sight"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "bizquear",
+    "foreignWord": "to squint",
+    "category": "Sight"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "guiñar",
+    "foreignWord": "to wink",
+    "category": "Sight"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "parpadear",
+    "foreignWord": "to blink",
+    "category": "Sight"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "tocar",
+    "foreignWord": "to touch",
+    "category": "Touch"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "agarrar",
+    "foreignWord": "to grab",
+    "category": "Touch"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "suave",
+    "foreignWord": "soft",
+    "category": "Touch"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "áspero(a)",
+    "foreignWord": "rough",
+    "category": "Touch"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "liso(a)",
+    "foreignWord": "smooth",
+    "category": "Touch"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "rugoso(a)",
+    "foreignWord": "wrinkled",
+    "category": "Touch"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "pegajoso(a)",
+    "foreignWord": "sticky",
+    "category": "Touch"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "punzante",
+    "foreignWord": "sharp",
+    "category": "Touch"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "sedoso(a)",
+    "foreignWord": "silky",
+    "category": "Touch"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "esponjoso(a)",
+    "foreignWord": "spongy",
+    "category": "Touch"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "mullido(a)",
+    "foreignWord": "fluffy",
+    "category": "Touch"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "hormigueo",
+    "foreignWord": "tingle",
+    "category": "Touch"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "entumecido(a)",
+    "foreignWord": "numb",
+    "category": "Touch"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "rozar",
+    "foreignWord": "to touch gently",
+    "category": "Touch"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "acariciar",
+    "foreignWord": "to caress",
+    "category": "Touch"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "agarrar",
+    "foreignWord": "to grab",
+    "category": "Touch"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "olor",
+    "foreignWord": "smell",
+    "category": "Smell"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el perfume",
+    "foreignWord": "scent",
+    "category": "Smell"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la fragancia",
+    "foreignWord": "fragrance",
+    "category": "Smell"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el hedor",
+    "foreignWord": "stench",
+    "category": "Smell"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "apestoso(a)",
+    "foreignWord": "smelly",
+    "category": "Smell"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "fresco(a)",
+    "foreignWord": "— fresh",
+    "category": "Smell"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "acre",
+    "foreignWord": "pungent",
+    "category": "Smell"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "húmedo(a)",
+    "foreignWord": "musty",
+    "category": "Smell"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "podrido(a)",
+    "foreignWord": "rotten",
+    "category": "Smell"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "ahumado(a)",
+    "foreignWord": "smoky",
+    "category": "Smell"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "apestar",
+    "foreignWord": "to stink",
+    "category": "Smell"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "gusto",
+    "foreignWord": "taste",
+    "category": "Taste"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "sabor",
+    "foreignWord": "flavor",
+    "category": "Taste"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "probar",
+    "foreignWord": "try",
+    "category": "Taste"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "sabroso",
+    "foreignWord": "está sabrosa",
+    "category": "Taste"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "delicioso",
+    "foreignWord": "delicious",
+    "category": "Taste"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "perfecto",
+    "foreignWord": "perfect",
+    "category": "Taste"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "apetitoso",
+    "foreignWord": "appetizing",
+    "category": "Taste"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "dulce",
+    "foreignWord": "sweet",
+    "category": "Taste"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "dulzón",
+    "foreignWord": "sugary",
+    "category": "Taste"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "soso",
+    "foreignWord": "bland",
+    "category": "Taste"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "abierto/a –",
+    "foreignWord": "open",
+    "category": "Distance"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "ancho/a –",
+    "foreignWord": "wide",
+    "category": "Distance"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "estrecho/a –",
+    "foreignWord": "narrow",
+    "category": "Distance"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "lejano/a –",
+    "foreignWord": "far",
+    "category": "Distance"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "cercano/a –",
+    "foreignWord": "close",
+    "category": "Distance"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "alegre –",
+    "foreignWord": "joyful",
+    "category": "Personality and Emotions"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "gracioso/a –",
+    "foreignWord": "funny, amusing",
+    "category": "Personality and Emotions"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "serio/a –",
+    "foreignWord": "serious",
+    "category": "Personality and Emotions"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "tímido/a –",
+    "foreignWord": "shy",
+    "category": "Personality and Emotions"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "valiente –",
+    "foreignWord": "brave",
+    "category": "Personality and Emotions"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "loco/a –",
+    "foreignWord": "crazy",
+    "category": "Personality and Emotions"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "contento(a)",
+    "foreignWord": "content",
+    "category": "Personality and Emotions"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "feliz",
+    "foreignWord": "happy",
+    "category": "Personality and Emotions"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "preocupado(a)",
+    "foreignWord": "worried",
+    "category": "Personality and Emotions"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "nervioso(a)",
+    "foreignWord": "nervous",
+    "category": "Personality and Emotions"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "tranquilo(a)",
+    "foreignWord": "tranquil",
+    "category": "Personality and Emotions"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "calmado(a)",
+    "foreignWord": "calm",
+    "category": "Personality and Emotions"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "emocionado(a)",
+    "foreignWord": "excited",
+    "category": "Personality and Emotions"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "excitado(a)",
+    "foreignWord": "excited",
+    "category": "Personality and Emotions"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "largo/a",
+    "foreignWord": "long",
+    "category": "Hair"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "corto/a",
+    "foreignWord": "short",
+    "category": "Hair"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "liso/a",
+    "foreignWord": "straight",
+    "category": "Hair"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "rizado/a",
+    "foreignWord": "curly",
+    "category": "Hair"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "ondulado/a",
+    "foreignWord": "wavy",
+    "category": "Hair"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "castaño/a",
+    "foreignWord": "brown",
+    "category": "Hair"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "rubio/a",
+    "foreignWord": "blonde",
+    "category": "Hair"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "pelirrojo/a",
+    "foreignWord": "red",
+    "category": "Hair"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "negro/a",
+    "foreignWord": "black",
+    "category": "Hair"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "canoso/a",
+    "foreignWord": "grey",
+    "category": "Hair"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "abundante",
+    "foreignWord": "thick",
+    "category": "Hair"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "fino/a",
+    "foreignWord": "thin",
+    "category": "Hair"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "escalado/a",
+    "foreignWord": "layered",
+    "category": "Hair"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "teñido/a",
+    "foreignWord": "dyed",
+    "category": "Hair"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "saludable",
+    "foreignWord": "healthy",
+    "category": "Hair"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "claro/a",
+    "foreignWord": "light",
+    "category": "Hair"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "encrespado/a",
+    "foreignWord": "frizzy",
+    "category": "Hair"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "brillante",
+    "foreignWord": "shiny",
+    "category": "Hair"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "calvo/a",
+    "foreignWord": "bald",
+    "category": "Hair"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "grande –",
+    "foreignWord": "big",
+    "category": "Size"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "pequeño/a –",
+    "foreignWord": "small",
+    "category": "Size"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "enorme –",
+    "foreignWord": "huge",
+    "category": "Size"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "delgado/a",
+    "foreignWord": "lean",
+    "category": "Size"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "esbelto/a",
+    "foreignWord": "slender",
+    "category": "Size"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "flaco/a",
+    "foreignWord": "skinny",
+    "category": "Size"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "menudo/a",
+    "foreignWord": "petite",
+    "category": "Size"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "alto/a",
+    "foreignWord": "tall",
+    "category": "Size"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "bajo/a",
+    "foreignWord": "short",
+    "category": "Size"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "hermoso/a",
+    "foreignWord": "beautiful",
+    "category": "Looks"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "guapo/a",
+    "foreignWord": "handsome",
+    "category": "Looks"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "feo/a",
+    "foreignWord": "ugly",
+    "category": "Looks"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "adorable",
+    "foreignWord": "cute",
+    "category": "Looks"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "bonita",
+    "foreignWord": "pretty",
+    "category": "Looks"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "impresionante",
+    "foreignWord": "stunning",
+    "category": "Looks"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "poco atractivo/a",
+    "foreignWord": "plain",
+    "category": "Looks"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "promedio/a",
+    "foreignWord": "average",
+    "category": "Looks"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "atractivo/a",
+    "foreignWord": "attractive",
+    "category": "Looks"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "negro",
+    "foreignWord": "black",
+    "category": "Colors"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "marrón / café",
+    "foreignWord": "brown",
+    "category": "Colors"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "gris",
+    "foreignWord": "grey",
+    "category": "Colors"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "blanco",
+    "foreignWord": "white",
+    "category": "Colors"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "amarillo",
+    "foreignWord": "yellow",
+    "category": "Colors"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "anaranjado",
+    "foreignWord": "orange",
+    "category": "Colors"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "rojo",
+    "foreignWord": "red",
+    "category": "Colors"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "rosado",
+    "foreignWord": "pink",
+    "category": "Colors"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "morado / púrpura",
+    "foreignWord": "purple",
+    "category": "Colors"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "azul",
+    "foreignWord": "blue",
+    "category": "Colors"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "verde",
+    "foreignWord": "green",
+    "category": "Colors"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "colorear",
+    "foreignWord": "to color",
+    "category": "Arts and Crafts"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "construir — to construct",
+    "foreignWord": "",
+    "category": "Arts and Crafts"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "cortar",
+    "foreignWord": "to cut",
+    "category": "Arts and Crafts"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "coser",
+    "foreignWord": "to sew",
+    "category": "Arts and Crafts"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "dibujar",
+    "foreignWord": "to draw",
+    "category": "Arts and Crafts"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "pintar",
+    "foreignWord": "to paint",
+    "category": "Arts and Crafts"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "cero",
+    "foreignWord": "zero",
+    "category": "Numbers"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "uno",
+    "foreignWord": "one",
+    "category": "Numbers"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "dos",
+    "foreignWord": "two",
+    "category": "Numbers"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "tres",
+    "foreignWord": "three",
+    "category": "Numbers"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "cuatro",
+    "foreignWord": "four",
+    "category": "Numbers"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "cinco",
+    "foreignWord": "five",
+    "category": "Numbers"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "seis",
+    "foreignWord": "six",
+    "category": "Numbers"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "siete",
+    "foreignWord": "seven",
+    "category": "Numbers"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "ocho",
+    "foreignWord": "eight",
+    "category": "Numbers"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "nueve",
+    "foreignWord": "nine",
+    "category": "Numbers"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "diez",
+    "foreignWord": "ten",
+    "category": "Numbers"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el gato",
+    "foreignWord": "cat",
+    "category": "Farm Animals"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el perro",
+    "foreignWord": "dog",
+    "category": "Farm Animals"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el conejo",
+    "foreignWord": "rabbit",
+    "category": "Farm Animals"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el pollo",
+    "foreignWord": "chicken",
+    "category": "Farm Animals"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la gallina",
+    "foreignWord": "hen",
+    "category": "Farm Animals"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el gallo",
+    "foreignWord": "rooster",
+    "category": "Farm Animals"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la vaca",
+    "foreignWord": "cow",
+    "category": "Farm Animals"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el toro",
+    "foreignWord": "bull",
+    "category": "Farm Animals"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la oveja",
+    "foreignWord": "sheep",
+    "category": "Farm Animals"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el caballo",
+    "foreignWord": "horse",
+    "category": "Farm Animals"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el cerdo",
+    "foreignWord": "pig",
+    "category": "Farm Animals"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la cabra",
+    "foreignWord": "goat",
+    "category": "Farm Animals"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el burro",
+    "foreignWord": "donkey",
+    "category": "Farm Animals"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el ratón",
+    "foreignWord": "mouse",
+    "category": "Farm Animals"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el ciervo",
+    "foreignWord": "deer",
+    "category": "Forest Animals"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el mapache",
+    "foreignWord": "raccoon",
+    "category": "Forest Animals"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la ardilla",
+    "foreignWord": "squirrel",
+    "category": "Forest Animals"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el búho",
+    "foreignWord": "owl",
+    "category": "Forest Animals"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el zorro",
+    "foreignWord": "fox",
+    "category": "Forest Animals"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el lobo",
+    "foreignWord": "wolf",
+    "category": "Forest Animals"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el oso",
+    "foreignWord": "bear",
+    "category": "Forest Animals"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el cangrejo",
+    "foreignWord": "crab",
+    "category": "Ocean Animals"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la medusa",
+    "foreignWord": "jellyfish",
+    "category": "Ocean Animals"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el delfín",
+    "foreignWord": "dolphin",
+    "category": "Ocean Animals"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la ballena",
+    "foreignWord": "whale",
+    "category": "Ocean Animals"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el tiburón",
+    "foreignWord": "shark",
+    "category": "Ocean Animals"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la foca",
+    "foreignWord": "seal",
+    "category": "Ocean Animals"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el lobo marino",
+    "foreignWord": "sea lion",
+    "category": "Ocean Animals"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la morsa",
+    "foreignWord": "walrus",
+    "category": "Ocean Animals"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el pingüino",
+    "foreignWord": "penguin",
+    "category": "Ocean Animals"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el viaje",
+    "foreignWord": "trip",
+    "category": "Travel"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el equipaje",
+    "foreignWord": "bags",
+    "category": "Travel"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la salida",
+    "foreignWord": "exit",
+    "category": "Travel"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la llegada",
+    "foreignWord": "arrival",
+    "category": "Travel"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "los documentos de identidad",
+    "foreignWord": "id papers",
+    "category": "Travel"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el billete de avión",
+    "foreignWord": "boarding pass",
+    "category": "Travel"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el hotel",
+    "foreignWord": "hotel",
+    "category": "Travel"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el permiso de conducir",
+    "foreignWord": "driver’s license",
+    "category": "Travel"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "echar gasolina",
+    "foreignWord": "to get gas",
+    "category": "Travel"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "viajar",
+    "foreignWord": "to travel",
+    "category": "Travel"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "volver",
+    "foreignWord": "to return",
+    "category": "Travel"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "ir",
+    "foreignWord": "to go",
+    "category": "Travel"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "salir",
+    "foreignWord": "to leave",
+    "category": "Travel"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "parar",
+    "foreignWord": "to stop",
+    "category": "Travel"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "partir",
+    "foreignWord": "to depart",
+    "category": "Travel"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "porter(a)",
+    "foreignWord": "doorman",
+    "category": "Travel"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "hostia",
+    "foreignWord": "hostess",
+    "category": "Travel"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "botones",
+    "foreignWord": "bellhop",
+    "category": "Travel"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "anfitriona",
+    "foreignWord": "airline hostess",
+    "category": "Travel"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el avión",
+    "foreignWord": "airplane",
+    "category": "Transportation"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el coche",
+    "foreignWord": "car",
+    "category": "Transportation"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la bicicleta",
+    "foreignWord": "bicycle",
+    "category": "Transportation"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la motocicleta",
+    "foreignWord": "motorcycle",
+    "category": "Transportation"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el tren",
+    "foreignWord": "train",
+    "category": "Transportation"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el metro/subte",
+    "foreignWord": "subway",
+    "category": "Transportation"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el autobús",
+    "foreignWord": "bus",
+    "category": "Transportation"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el barco",
+    "foreignWord": "ship",
+    "category": "Transportation"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "taxista",
+    "foreignWord": "taxi driver",
+    "category": "Transportation"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "revisor(a)",
+    "foreignWord": "train conductor",
+    "category": "Transportation"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "dependiente de gas",
+    "foreignWord": "gas station attendant",
+    "category": "Transportation"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "conductor(a)",
+    "foreignWord": "driver, chauffeur",
+    "category": "Transportation"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "camionero(a)",
+    "foreignWord": "truck driver",
+    "category": "Transportation"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el sol",
+    "foreignWord": "the sun",
+    "category": "Weather"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "las nubes",
+    "foreignWord": "the clouds",
+    "category": "Weather"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la niebla",
+    "foreignWord": "the fog",
+    "category": "Weather"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la neblina",
+    "foreignWord": "the mist",
+    "category": "Weather"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la lluvia",
+    "foreignWord": "the rain",
+    "category": "Weather"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la llovizna",
+    "foreignWord": "the drizzle",
+    "category": "Weather"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la tormenta",
+    "foreignWord": "the storm",
+    "category": "Weather"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el tornado",
+    "foreignWord": "the tornado",
+    "category": "Weather"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el trueno",
+    "foreignWord": "the thunder",
+    "category": "Weather"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el relámpago",
+    "foreignWord": "the lightning strike",
+    "category": "Weather"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el rayo",
+    "foreignWord": "the lightning bolt",
+    "category": "Weather"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el viento",
+    "foreignWord": "the wind",
+    "category": "Weather"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la brisa",
+    "foreignWord": "the breeze",
+    "category": "Weather"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el granizo",
+    "foreignWord": "the hail",
+    "category": "Weather"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el hielo",
+    "foreignWord": "the ice",
+    "category": "Weather"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la nieve",
+    "foreignWord": "the snow",
+    "category": "Weather"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el calor",
+    "foreignWord": "the heat",
+    "category": "Weather"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el frío",
+    "foreignWord": "the cold",
+    "category": "Weather"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la humedad",
+    "foreignWord": "the humidity",
+    "category": "Weather"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la temperatura",
+    "foreignWord": "the temperature",
+    "category": "Weather"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el pronóstico",
+    "foreignWord": "the forecast",
+    "category": "Weather"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "llover",
+    "foreignWord": "to rain",
+    "category": "Weather Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "lloviznar",
+    "foreignWord": "to drizzle",
+    "category": "Weather Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "diluviar",
+    "foreignWord": "to pour down",
+    "category": "Weather Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "granizar",
+    "foreignWord": "to hail",
+    "category": "Weather Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "nevar",
+    "foreignWord": "to snow",
+    "category": "Weather Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el invierno",
+    "foreignWord": "winter",
+    "category": "Seasons"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la primavera",
+    "foreignWord": "spring",
+    "category": "Seasons"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el verano",
+    "foreignWord": "summer",
+    "category": "Seasons"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el otoño",
+    "foreignWord": "fall",
+    "category": "Seasons"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "carta de motivación",
+    "foreignWord": "cover letter",
+    "category": "Business"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el cv",
+    "foreignWord": "resume",
+    "category": "Business"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la firma",
+    "foreignWord": "firm",
+    "category": "Business"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el negocio",
+    "foreignWord": "business",
+    "category": "Business"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la compañía",
+    "foreignWord": "company",
+    "category": "Business"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el jefe",
+    "foreignWord": "boss",
+    "category": "Business"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el empleado",
+    "foreignWord": "employee",
+    "category": "Business"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "trabajar",
+    "foreignWord": "to work",
+    "category": "Business"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "negociar",
+    "foreignWord": "to negotiate",
+    "category": "Business"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "consultor(a)",
+    "foreignWord": "consultant",
+    "category": "Business"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "dueño(a)",
+    "foreignWord": "owner",
+    "category": "Business"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "abogado(a)",
+    "foreignWord": "lawyer",
+    "category": "Careers"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "arquitecto(a)",
+    "foreignWord": "architect",
+    "category": "Careers"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "bombero(a)",
+    "foreignWord": "fireman",
+    "category": "Careers"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "campesino(a)",
+    "foreignWord": "farm worker",
+    "category": "Careers"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "carpintero(a)",
+    "foreignWord": "carpenter",
+    "category": "Careers"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "cartero(a)",
+    "foreignWord": "postal worker",
+    "category": "Careers"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "casero(a)",
+    "foreignWord": "landlord",
+    "category": "Careers"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "científico(a)",
+    "foreignWord": "scientist",
+    "category": "Careers"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "cocinero(a)",
+    "foreignWord": "cook, chef",
+    "category": "Careers"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "consejero",
+    "foreignWord": "(a) — counselor",
+    "category": "Careers"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "constructor (a)",
+    "foreignWord": "construction worker",
+    "category": "Careers"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "contador(a)",
+    "foreignWord": "accountant/bookkeeper",
+    "category": "Careers"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "doméstico(a)",
+    "foreignWord": "maid",
+    "category": "Careers"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "detective",
+    "foreignWord": "detective",
+    "category": "Careers"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "director, revisor, redactor(a)",
+    "foreignWord": "editor",
+    "category": "Careers"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "electricista",
+    "foreignWord": "electrician",
+    "category": "Careers"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "escritor / autor(a)",
+    "foreignWord": "writer / author",
+    "category": "Careers"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "vaquero, tropero(a)",
+    "foreignWord": "cowboy",
+    "category": "Careers"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "manejador(a)",
+    "foreignWord": "manager",
+    "category": "Careers"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "granjero(a)",
+    "foreignWord": "farmer",
+    "category": "Careers"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "ingeniero(a)",
+    "foreignWord": "engineer",
+    "category": "Careers"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "jardinero(a)",
+    "foreignWord": "gardener",
+    "category": "Careers"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "jefe",
+    "foreignWord": "boss",
+    "category": "Careers"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "juez",
+    "foreignWord": "judge",
+    "category": "Careers"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "lavandero(a)",
+    "foreignWord": "laundry person",
+    "category": "Careers"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "marinero(a)",
+    "foreignWord": "merchant marine",
+    "category": "Careers"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "mecánico",
+    "foreignWord": "(a) — mechanic",
+    "category": "Careers"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "camarero(a)",
+    "foreignWord": "waiter",
+    "category": "Careers"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "padre",
+    "foreignWord": "priest",
+    "category": "Careers"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "panadero(a)",
+    "foreignWord": "baker",
+    "category": "Careers"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "pastor(a)",
+    "foreignWord": "pastor/minister",
+    "category": "Careers"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "periodista",
+    "foreignWord": "reporter/journalist",
+    "category": "Careers"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "pescador(a)",
+    "foreignWord": "fisherman",
+    "category": "Careers"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "pintor(a)",
+    "foreignWord": "painter",
+    "category": "Careers"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "plomero(a)",
+    "foreignWord": "plumber",
+    "category": "Careers"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "Policía",
+    "foreignWord": "policeman",
+    "category": "Careers"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "programador(a)",
+    "foreignWord": "computer programmer",
+    "category": "Careers"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "dueño(a)",
+    "foreignWord": "owner",
+    "category": "Careers"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "químico(a)",
+    "foreignWord": "chemist",
+    "category": "Careers"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "ranchero(a)",
+    "foreignWord": "rancher",
+    "category": "Careers"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "rebuscador(a)",
+    "foreignWord": "researcher",
+    "category": "Careers"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "reparador(a)",
+    "foreignWord": "repairman",
+    "category": "Careers"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "técnico(a) de laboratorio",
+    "foreignWord": "lab technician",
+    "category": "Careers"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "trabajador(a) de fábrica",
+    "foreignWord": "factory worker",
+    "category": "Careers"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "veterinario(a)",
+    "foreignWord": "veterinarian",
+    "category": "Careers"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "ir al gimnasio",
+    "foreignWord": "go to the gym",
+    "category": "Sports"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "ir de caminata",
+    "foreignWord": "go hiking",
+    "category": "Sports"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "levantar pesas",
+    "foreignWord": "lift weight",
+    "category": "Sports"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "mantenerse en forma",
+    "foreignWord": "to stay in shape",
+    "category": "Sports"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "practicar",
+    "foreignWord": "to practice",
+    "category": "Sports"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "nadar",
+    "foreignWord": "to swim",
+    "category": "Sports"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el yoga",
+    "foreignWord": "yoga",
+    "category": "Sports"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el fútbol",
+    "foreignWord": "soccer",
+    "category": "Sports"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el fútbol americano",
+    "foreignWord": "football",
+    "category": "Sports"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el béisbol",
+    "foreignWord": "baseball",
+    "category": "Sports"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el baloncesto",
+    "foreignWord": "basketball",
+    "category": "Sports"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el golf",
+    "foreignWord": "golf",
+    "category": "Sports"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el hockey",
+    "foreignWord": "hockey",
+    "category": "Sports"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el tenis",
+    "foreignWord": "tennis",
+    "category": "Sports"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el voleibol",
+    "foreignWord": "volleyball",
+    "category": "Sports"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "luchar",
+    "foreignWord": "to wrestle/to fight",
+    "category": "Sports"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "correr",
+    "foreignWord": "to run",
+    "category": "Sports"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "esquiar",
+    "foreignWord": "to ski",
+    "category": "Sports"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el partido",
+    "foreignWord": "game/match",
+    "category": "Sports"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la carrera",
+    "foreignWord": "race",
+    "category": "Sports"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el torneo",
+    "foreignWord": "tournament",
+    "category": "Sports"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "patear",
+    "foreignWord": "to kick",
+    "category": "Sports Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "saltar",
+    "foreignWord": "to jump",
+    "category": "Sports Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "parar",
+    "foreignWord": "to stop/to block",
+    "category": "Sports Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "balancear",
+    "foreignWord": "to swing",
+    "category": "Sports Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "servir",
+    "foreignWord": "to serve",
+    "category": "Sports Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "rematar",
+    "foreignWord": "to spike",
+    "category": "Sports Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "pegar",
+    "foreignWord": "to hit",
+    "category": "Sports Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "driblar",
+    "foreignWord": "to dribble",
+    "category": "Sports Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "tirar",
+    "foreignWord": "to throw",
+    "category": "Sports Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "agarrar",
+    "foreignWord": "to catch",
+    "category": "Sports Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "ganar",
+    "foreignWord": "to win",
+    "category": "Sports Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "perder",
+    "foreignWord": "to lose",
+    "category": "Sports Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "empatar",
+    "foreignWord": "to tie",
+    "category": "Sports Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "caminar",
+    "foreignWord": "to walk",
+    "category": "Sports Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "bailar",
+    "foreignWord": "to dance",
+    "category": "Sports Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "jugar",
+    "foreignWord": "to play",
+    "category": "Sports Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "competir",
+    "foreignWord": "to compete",
+    "category": "Sports Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la comida",
+    "foreignWord": "food",
+    "category": "Food and Drink"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "las bebidas",
+    "foreignWord": "drinks",
+    "category": "Food and Drink"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "las verduras",
+    "foreignWord": "vegetables",
+    "category": "Food and Drink"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "las frutas",
+    "foreignWord": "fruits",
+    "category": "Food and Drink"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "cocinar",
+    "foreignWord": "to cook",
+    "category": "Food and Drink"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "tengo hambre",
+    "foreignWord": "i’m hungry",
+    "category": "Food and Drink"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "tengo sed",
+    "foreignWord": "i’m thirsty",
+    "category": "Food and Drink"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la res",
+    "foreignWord": "beef",
+    "category": "Meats"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el pollo",
+    "foreignWord": "chicken",
+    "category": "Meats"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la gallina",
+    "foreignWord": "chicken",
+    "category": "Meats"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el cordero",
+    "foreignWord": "lamb",
+    "category": "Meats"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la barbacoa",
+    "foreignWord": "grilled",
+    "category": "Meats"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el cerdo",
+    "foreignWord": "pork",
+    "category": "Meats"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el perrito caliente",
+    "foreignWord": "hot dog",
+    "category": "Meats"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el jamón",
+    "foreignWord": "ham",
+    "category": "Meats"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la hamburguesa",
+    "foreignWord": "hamburger",
+    "category": "Meats"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el tocino",
+    "foreignWord": "bacon",
+    "category": "Meats"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el pescado",
+    "foreignWord": "fish",
+    "category": "Meats"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la zanahoria",
+    "foreignWord": "carrot",
+    "category": "Vegetables"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la lechuga",
+    "foreignWord": "lettuce",
+    "category": "Vegetables"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el tomate",
+    "foreignWord": "tomato",
+    "category": "Vegetables"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la maíz",
+    "foreignWord": "corn",
+    "category": "Vegetables"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la papa",
+    "foreignWord": "potato",
+    "category": "Vegetables"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la patata",
+    "foreignWord": "potato",
+    "category": "Vegetables"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "las papas",
+    "foreignWord": "french fries",
+    "category": "Vegetables"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "las patatas fritas",
+    "foreignWord": "french fries",
+    "category": "Vegetables"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el brocoli",
+    "foreignWord": "broccoli",
+    "category": "Vegetables"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la espinaca",
+    "foreignWord": "spinach",
+    "category": "Vegetables"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la cebolla",
+    "foreignWord": "onion",
+    "category": "Vegetables"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la col",
+    "foreignWord": "cabbage",
+    "category": "Vegetables"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la ensalada",
+    "foreignWord": "salad",
+    "category": "Vegetables"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la aceituna",
+    "foreignWord": "olive",
+    "category": "Vegetables"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "las calabacitas",
+    "foreignWord": "squash",
+    "category": "Vegetables"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el hongo",
+    "foreignWord": "mushroom",
+    "category": "Vegetables"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el pepino",
+    "foreignWord": "cucumber",
+    "category": "Vegetables"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la manzana",
+    "foreignWord": "apple",
+    "category": "Fruits"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la pera",
+    "foreignWord": "pear",
+    "category": "Fruits"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la fresa",
+    "foreignWord": "strawberry",
+    "category": "Fruits"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la frambuesa",
+    "foreignWord": "raspberry",
+    "category": "Fruits"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la zarzamora",
+    "foreignWord": "blackberry",
+    "category": "Fruits"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el arándano",
+    "foreignWord": "blueberry",
+    "category": "Fruits"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el arándano rojo",
+    "foreignWord": "cranberry",
+    "category": "Fruits"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la naranja",
+    "foreignWord": "orange",
+    "category": "Fruits"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la mandarina",
+    "foreignWord": "tangerine",
+    "category": "Fruits"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la toronja",
+    "foreignWord": "grapefruit",
+    "category": "Fruits"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el limón",
+    "foreignWord": "lemon",
+    "category": "Fruits"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la lima",
+    "foreignWord": "lime",
+    "category": "Fruits"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el plátano",
+    "foreignWord": "banana",
+    "category": "Fruits"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la piña",
+    "foreignWord": "pineapple",
+    "category": "Fruits"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el coco",
+    "foreignWord": "coconut",
+    "category": "Fruits"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el mango",
+    "foreignWord": "mango",
+    "category": "Fruits"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la papaya",
+    "foreignWord": "papaya",
+    "category": "Fruits"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la cerveza",
+    "foreignWord": "beer",
+    "category": "Drinks"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el refresco",
+    "foreignWord": "pop, soft drink",
+    "category": "Drinks"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el té",
+    "foreignWord": "tea",
+    "category": "Drinks"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el té helado",
+    "foreignWord": "iced tea",
+    "category": "Drinks"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el café",
+    "foreignWord": "coffee",
+    "category": "Drinks"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la leche",
+    "foreignWord": "milk",
+    "category": "Drinks"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el agua",
+    "foreignWord": "water",
+    "category": "Drinks"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el jugo",
+    "foreignWord": "juice",
+    "category": "Drinks"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el batido",
+    "foreignWord": "milkshake",
+    "category": "Drinks"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el chocolate",
+    "foreignWord": "chocolate",
+    "category": "Desserts"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "los dulces",
+    "foreignWord": "candy",
+    "category": "Desserts"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el pastel",
+    "foreignWord": "cake",
+    "category": "Desserts"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "las galletas",
+    "foreignWord": "cookies",
+    "category": "Desserts"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el helado",
+    "foreignWord": "ice cream",
+    "category": "Desserts"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el churros con chocolate",
+    "foreignWord": "chocolate churros",
+    "category": "Desserts"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el basque cheesecake",
+    "foreignWord": "cheesecake",
+    "category": "Desserts"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el plato",
+    "foreignWord": "plate",
+    "category": "Utensils"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el plato hondo",
+    "foreignWord": "bowl",
+    "category": "Utensils"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el vaso",
+    "foreignWord": "glass",
+    "category": "Utensils"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la copa",
+    "foreignWord": "cup",
+    "category": "Utensils"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el tenedor",
+    "foreignWord": "fork",
+    "category": "Utensils"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la cuchara",
+    "foreignWord": "spoon",
+    "category": "Utensils"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el cuchillo",
+    "foreignWord": "knife",
+    "category": "Utensils"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la servilleta",
+    "foreignWord": "napkin",
+    "category": "Utensils"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "dulce",
+    "foreignWord": "sweet",
+    "category": "Taste"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "salado(a)",
+    "foreignWord": "savory",
+    "category": "Taste"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "rico(a)",
+    "foreignWord": "delicious",
+    "category": "Taste"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el desayuno",
+    "foreignWord": "breakfast",
+    "category": "Meals"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el almuerzo",
+    "foreignWord": "lunch",
+    "category": "Meals"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la cena",
+    "foreignWord": "dinner",
+    "category": "Meals"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el tentempié",
+    "foreignWord": "snack",
+    "category": "Meals"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la prenda, la ropa",
+    "foreignWord": "clothes",
+    "category": "Clothing"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "los zapatos",
+    "foreignWord": "shoes",
+    "category": "Clothing"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el pantalón",
+    "foreignWord": "pants",
+    "category": "Clothing"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la camiseta / la camisa",
+    "foreignWord": "shirt",
+    "category": "Clothing"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la chaqueta",
+    "foreignWord": "jacket",
+    "category": "Clothing"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la falda",
+    "foreignWord": "skirt",
+    "category": "Clothing"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el suéter",
+    "foreignWord": "sweater",
+    "category": "Clothing"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el vestido",
+    "foreignWord": "dress",
+    "category": "Clothing"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la navidad",
+    "foreignWord": "christmas",
+    "category": "Holidays and Parties"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el año nuevo",
+    "foreignWord": "new year",
+    "category": "Holidays and Parties"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la pascua",
+    "foreignWord": "easter",
+    "category": "Holidays and Parties"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el día de san valentín",
+    "foreignWord": "valentine’s day",
+    "category": "Holidays and Parties"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el día de la madre",
+    "foreignWord": "mother’s day",
+    "category": "Holidays and Parties"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el día del padre",
+    "foreignWord": "father’s day",
+    "category": "Holidays and Parties"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el día de la independencia",
+    "foreignWord": "independence day",
+    "category": "Holidays and Parties"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el día de acción de gracias",
+    "foreignWord": "thanksgiving",
+    "category": "Holidays and Parties"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el cumpleaños",
+    "foreignWord": "birthday",
+    "category": "Holidays and Parties"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la fiesta",
+    "foreignWord": "the party",
+    "category": "Holidays and Parties"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la boda",
+    "foreignWord": "the wedding",
+    "category": "Holidays and Parties"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el cuerpo humano",
+    "foreignWord": "the human body",
+    "category": "Parts of the Body"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la cabeza",
+    "foreignWord": "head",
+    "category": "Parts of the Body"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el pecho",
+    "foreignWord": "chest",
+    "category": "Parts of the Body"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el oído / la oreja",
+    "foreignWord": "ear",
+    "category": "Parts of the Body"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el ojo",
+    "foreignWord": "eye",
+    "category": "Parts of the Body"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la cara",
+    "foreignWord": "face",
+    "category": "Parts of the Body"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la mano",
+    "foreignWord": "hand",
+    "category": "Parts of the Body"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la boca",
+    "foreignWord": "mouth",
+    "category": "Parts of the Body"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el pie",
+    "foreignWord": "foot",
+    "category": "Parts of the Body"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la espalda",
+    "foreignWord": "back",
+    "category": "Parts of the Body"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el pelo",
+    "foreignWord": "hair",
+    "category": "Parts of the Body"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el codo",
+    "foreignWord": "elbow",
+    "category": "Parts of the Body"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el dedo",
+    "foreignWord": "finger",
+    "category": "Parts of the Body"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la pantorrilla",
+    "foreignWord": "calf",
+    "category": "Parts of the Body"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la pierna",
+    "foreignWord": "leg",
+    "category": "Parts of the Body"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la muñeca",
+    "foreignWord": "wrist",
+    "category": "Parts of the Body"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el talón",
+    "foreignWord": "heel",
+    "category": "Parts of the Body"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el brazo",
+    "foreignWord": "arm",
+    "category": "Parts of the Body"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el cuello",
+    "foreignWord": "neck",
+    "category": "Parts of the Body"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el tobillo",
+    "foreignWord": "ankle",
+    "category": "Parts of the Body"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la frente",
+    "foreignWord": "forehead",
+    "category": "Parts of the Body"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el muslo",
+    "foreignWord": "thigh",
+    "category": "Parts of the Body"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la barba",
+    "foreignWord": "beard",
+    "category": "Parts of the Body"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el bigote",
+    "foreignWord": "mustache",
+    "category": "Parts of the Body"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la lengua",
+    "foreignWord": "tongue",
+    "category": "Parts of the Body"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el dedo del pie",
+    "foreignWord": "toe",
+    "category": "Parts of the Body"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la cintura",
+    "foreignWord": "waist",
+    "category": "Parts of the Body"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la cadera",
+    "foreignWord": "hip",
+    "category": "Parts of the Body"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "las nalgas",
+    "foreignWord": "buttocks",
+    "category": "Parts of the Body"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el pulgar",
+    "foreignWord": "thumb",
+    "category": "Parts of the Body"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la rodilla",
+    "foreignWord": "knee",
+    "category": "Parts of the Body"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la nariz",
+    "foreignWord": "nose",
+    "category": "Parts of the Body"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la mejilla, el cachete",
+    "foreignWord": "cheek",
+    "category": "Parts of the Body"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "los labios",
+    "foreignWord": "lips",
+    "category": "Parts of the Body"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el hombro",
+    "foreignWord": "shoulder",
+    "category": "Parts of the Body"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la barbilla, el mentón",
+    "foreignWord": "chin",
+    "category": "Parts of the Body"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "las cejas",
+    "foreignWord": "eyebrows",
+    "category": "Parts of the Body"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "las pestañas",
+    "foreignWord": "eyelashes",
+    "category": "Parts of the Body"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el ombligo",
+    "foreignWord": "belly button",
+    "category": "Parts of the Body"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la piel",
+    "foreignWord": "skin",
+    "category": "Parts of the Body"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el vientre",
+    "foreignWord": "stomach",
+    "category": "Parts of the Body"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la garganta",
+    "foreignWord": "throat",
+    "category": "Parts of the Body"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "los dientes/las muelas",
+    "foreignWord": "teeth",
+    "category": "Parts of the Body"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "al principio",
+    "foreignWord": "at the beginning",
+    "category": "Time and Place"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "en primer lugar",
+    "foreignWord": "firstly",
+    "category": "Time and Place"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "para comenzar",
+    "foreignWord": "to start",
+    "category": "Time and Place"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "antes",
+    "foreignWord": "before",
+    "category": "Time and Place"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "después",
+    "foreignWord": "after",
+    "category": "Time and Place"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "a continuación",
+    "foreignWord": "in continuation",
+    "category": "Time and Place"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "mientras tanto",
+    "foreignWord": "meanwhile",
+    "category": "Time and Place"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "al final",
+    "foreignWord": "at the end",
+    "category": "Time and Place"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "además",
+    "foreignWord": "additionally",
+    "category": "Add an Idea"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "aparte de",
+    "foreignWord": "apart from",
+    "category": "Add an Idea"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "asimismo",
+    "foreignWord": "at the same time",
+    "category": "Add an Idea"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "también",
+    "foreignWord": "also",
+    "category": "Add an Idea"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "de igual manera",
+    "foreignWord": "in the same way",
+    "category": "Add an Idea"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "pero",
+    "foreignWord": "but",
+    "category": "Compare contrast"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "sin embargo",
+    "foreignWord": "however",
+    "category": "Compare contrast"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "no obstante",
+    "foreignWord": "nevertheless",
+    "category": "Compare contrast"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "por otro lado",
+    "foreignWord": "on the other hand",
+    "category": "Compare contrast"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "aunque",
+    "foreignWord": "even though",
+    "category": "Compare contrast"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "a pesar de",
+    "foreignWord": "despite",
+    "category": "Compare contrast"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "dentro de",
+    "foreignWord": "inside of",
+    "category": "Prepositions"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "encima de/sobre",
+    "foreignWord": "on top of",
+    "category": "Prepositions"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "debajo de",
+    "foreignWord": "underneath of",
+    "category": "Prepositions"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "delante de",
+    "foreignWord": "in front of",
+    "category": "Prepositions"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "detrás de",
+    "foreignWord": "behind",
+    "category": "Prepositions"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "entre",
+    "foreignWord": "between",
+    "category": "Prepositions"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "en",
+    "foreignWord": "in/on/at",
+    "category": "Prepositions"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "dentro de",
+    "foreignWord": "inside of",
+    "category": "Prepositions"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "fuera de",
+    "foreignWord": "outside of",
+    "category": "Prepositions"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "arriba de",
+    "foreignWord": "above",
+    "category": "Prepositions"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "en medio de",
+    "foreignWord": "in the middle of",
+    "category": "Prepositions"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "cerca de",
+    "foreignWord": "close to",
+    "category": "Prepositions"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "lejos de",
+    "foreignWord": "far from",
+    "category": "Prepositions"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "al lado de",
+    "foreignWord": "next to",
+    "category": "Prepositions"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "alrededor de",
+    "foreignWord": "around",
+    "category": "Prepositions"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "a la izquierda de",
+    "foreignWord": "to the left of",
+    "category": "Prepositions"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "a la derecha de",
+    "foreignWord": "to the right of",
+    "category": "Prepositions"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "estar",
+    "foreignWord": "to be",
+    "category": "Location Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "colocar",
+    "foreignWord": "to place",
+    "category": "Location Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "ubicar",
+    "foreignWord": "to position",
+    "category": "Location Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "poner",
+    "foreignWord": "to put",
+    "category": "Location Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "situar",
+    "foreignWord": "to place",
+    "category": "Location Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "aquí, acá",
+    "foreignWord": "here",
+    "category": "Here and There"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "ahí",
+    "foreignWord": "there",
+    "category": "Here and There"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "allí",
+    "foreignWord": "there",
+    "category": "Here and There"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "allá",
+    "foreignWord": "over there",
+    "category": "Here and There"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el este",
+    "foreignWord": "east",
+    "category": "Directions"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el norte",
+    "foreignWord": "north",
+    "category": "Directions"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el oeste",
+    "foreignWord": "west",
+    "category": "Directions"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el sur",
+    "foreignWord": "south",
+    "category": "Directions"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la clase",
+    "foreignWord": "classroom",
+    "category": "Classroom Objects"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el aula",
+    "foreignWord": "classroom",
+    "category": "Classroom Objects"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la pizarra",
+    "foreignWord": "blackboard",
+    "category": "Classroom Objects"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el pizarrón",
+    "foreignWord": "whiteboard",
+    "category": "Classroom Objects"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la tiza",
+    "foreignWord": "chalk",
+    "category": "Classroom Objects"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el marcador",
+    "foreignWord": "marker",
+    "category": "Classroom Objects"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el borrador",
+    "foreignWord": "eraser",
+    "category": "Classroom Objects"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el escritorio",
+    "foreignWord": "desk",
+    "category": "Classroom Objects"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el pupitre",
+    "foreignWord": "desk",
+    "category": "Classroom Objects"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la silla",
+    "foreignWord": "chair",
+    "category": "Classroom Objects"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la mochila",
+    "foreignWord": "backpack",
+    "category": "Classroom Objects"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el libro",
+    "foreignWord": "book",
+    "category": "Classroom Objects"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el cuaderno",
+    "foreignWord": "notebook",
+    "category": "Classroom Objects"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el papel",
+    "foreignWord": "paper",
+    "category": "Classroom Objects"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el lápiz",
+    "foreignWord": "pencil",
+    "category": "Classroom Objects"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "los lápices de colores",
+    "foreignWord": "coloring pencils",
+    "category": "Classroom Objects"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el sacapuntas",
+    "foreignWord": "pencil sharpener",
+    "category": "Classroom Objects"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el bolígrafo",
+    "foreignWord": "pen",
+    "category": "Classroom Objects"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la goma",
+    "foreignWord": "eraser",
+    "category": "Classroom Objects"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "las tijeras",
+    "foreignWord": "scissors",
+    "category": "Classroom Objects"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la cola/el pegamento",
+    "foreignWord": "glue",
+    "category": "Classroom Objects"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la regla",
+    "foreignWord": "ruler",
+    "category": "Classroom Objects"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la grapadora",
+    "foreignWord": "stapler",
+    "category": "Classroom Objects"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el estuche",
+    "foreignWord": "pencil case",
+    "category": "Classroom Objects"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "estudiar",
+    "foreignWord": "to study",
+    "category": "Classroom Activities"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "repasar",
+    "foreignWord": "to revise",
+    "category": "Classroom Activities"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "aprender",
+    "foreignWord": "to learn",
+    "category": "Classroom Activities"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "saber",
+    "foreignWord": "to know",
+    "category": "Classroom Activities"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "hacer los deberes",
+    "foreignWord": "to do homework",
+    "category": "Classroom Activities"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "hacer la tarea",
+    "foreignWord": "to do homework",
+    "category": "Classroom Activities"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "leer",
+    "foreignWord": "to read",
+    "category": "Classroom Activities"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "escribir",
+    "foreignWord": "to write",
+    "category": "Classroom Activities"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "hablar",
+    "foreignWord": "to speak",
+    "category": "Classroom Activities"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "decir",
+    "foreignWord": "to say",
+    "category": "Classroom Activities"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "preguntar",
+    "foreignWord": "to ask",
+    "category": "Classroom Activities"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "charlar",
+    "foreignWord": "to chat",
+    "category": "Classroom Activities"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "dictar",
+    "foreignWord": "to dictate",
+    "category": "Classroom Activities"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "deletrear",
+    "foreignWord": "to spell",
+    "category": "Classroom Activities"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "contar",
+    "foreignWord": "to count",
+    "category": "Classroom Activities"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "faltar",
+    "foreignWord": "to miss school",
+    "category": "Classroom Activities"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "aprobar",
+    "foreignWord": "to pass a subject/a test",
+    "category": "Classroom Activities"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "reprobar",
+    "foreignWord": "to fail a subject/a test",
+    "category": "Classroom Activities"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "prestar",
+    "foreignWord": "to lend",
+    "category": "Classroom Activities"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "tomar prestado",
+    "foreignWord": "to borrow",
+    "category": "Classroom Activities"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "traer",
+    "foreignWord": "to bring",
+    "category": "Classroom Activities"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "enseñar",
+    "foreignWord": "to teach",
+    "category": "Classroom Activities"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "mostrar",
+    "foreignWord": "to show",
+    "category": "Classroom Activities"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "nombrar",
+    "foreignWord": "to name",
+    "category": "Classroom Activities"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "ayudar",
+    "foreignWord": "to help",
+    "category": "Classroom Activities"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la escuela",
+    "foreignWord": "school",
+    "category": "Places in a School"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el colegio",
+    "foreignWord": "school",
+    "category": "Places in a School"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el gimnasio",
+    "foreignWord": "gym",
+    "category": "Places in a School"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el patio",
+    "foreignWord": "playground",
+    "category": "Places in a School"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el baño",
+    "foreignWord": "restroom",
+    "category": "Places in a School"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el pasillo",
+    "foreignWord": "hallway",
+    "category": "Places in a School"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la biblioteca",
+    "foreignWord": "library",
+    "category": "Places in a School"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la oficina",
+    "foreignWord": "office",
+    "category": "Places in a School"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la sala de profesores",
+    "foreignWord": "staff room",
+    "category": "Places in a School"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el comedor",
+    "foreignWord": "cafeteria",
+    "category": "Places in a School"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la cocina",
+    "foreignWord": "kitchen",
+    "category": "Places in a School"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la enfermería",
+    "foreignWord": "infirmary",
+    "category": "Places in a School"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el laboratorio",
+    "foreignWord": "lab",
+    "category": "Places in a School"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "maestro/a",
+    "foreignWord": "teacher (primary school)",
+    "category": "People in a School"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "profesor/a",
+    "foreignWord": "teacher (secondary school)",
+    "category": "People in a School"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "entrenador/a",
+    "foreignWord": "coach",
+    "category": "People in a School"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "enfermero/a",
+    "foreignWord": "nurse",
+    "category": "People in a School"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "director/a",
+    "foreignWord": "principal",
+    "category": "People in a School"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "alumno/a",
+    "foreignWord": "student",
+    "category": "People in a School"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "estudiante",
+    "foreignWord": "student",
+    "category": "People in a School"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el almuerzo",
+    "foreignWord": "lunch",
+    "category": "More School Words"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el recreo",
+    "foreignWord": "recess",
+    "category": "More School Words"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "las vacaciones",
+    "foreignWord": "vacations",
+    "category": "More School Words"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la comida",
+    "foreignWord": "food",
+    "category": "More School Words"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el casillero",
+    "foreignWord": "locker",
+    "category": "More School Words"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la materia",
+    "foreignWord": "subject",
+    "category": "More School Words"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la matemática",
+    "foreignWord": "math",
+    "category": "More School Words"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la biología",
+    "foreignWord": "biology",
+    "category": "More School Words"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la química",
+    "foreignWord": "chemistry",
+    "category": "More School Words"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la física",
+    "foreignWord": "physics",
+    "category": "More School Words"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la educación física",
+    "foreignWord": "physical education",
+    "category": "More School Words"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la historia",
+    "foreignWord": "history",
+    "category": "More School Words"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la literatura",
+    "foreignWord": "literature",
+    "category": "More School Words"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la prueba",
+    "foreignWord": "test",
+    "category": "More School Words"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el examen",
+    "foreignWord": "exam",
+    "category": "More School Words"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la nota",
+    "foreignWord": "grade",
+    "category": "More School Words"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la calificación",
+    "foreignWord": "grade",
+    "category": "More School Words"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "un ordenador (Spain)",
+    "foreignWord": "a computer",
+    "category": "Technology"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "una computadora (Latin America)",
+    "foreignWord": "a computer",
+    "category": "Technology"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "una tableta",
+    "foreignWord": "—  a tablet",
+    "category": "Technology"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "una impresora",
+    "foreignWord": "—   a printer",
+    "category": "Technology"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el ratón",
+    "foreignWord": "—   the mouse",
+    "category": "Technology"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "apagar",
+    "foreignWord": "to turn on",
+    "category": "Technology"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "encender",
+    "foreignWord": "—   to turn off",
+    "category": "Technology"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el disco duro",
+    "foreignWord": "—  the hard drive",
+    "category": "Technology"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el teclado",
+    "foreignWord": "—  the keyboard",
+    "category": "Technology"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la tecla",
+    "foreignWord": "—   the key",
+    "category": "Technology"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "los auriculares",
+    "foreignWord": "—  headphones",
+    "category": "Technology"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el micrófono",
+    "foreignWord": "the mic",
+    "category": "Technology"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la pantalla",
+    "foreignWord": "—   the screen",
+    "category": "Technology"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la cámara",
+    "foreignWord": "—   the camera",
+    "category": "Technology"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "los altavoces",
+    "foreignWord": "the speakers",
+    "category": "Technology"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "una aplicación",
+    "foreignWord": "an app",
+    "category": "Technology"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "base de datos",
+    "foreignWord": "—   database",
+    "category": "Technology"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "las redes sociales",
+    "foreignWord": "—   social networks",
+    "category": "Technology"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el enlace",
+    "foreignWord": "the link",
+    "category": "Technology"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "subir",
+    "foreignWord": "to upload",
+    "category": "Technology"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "guardar",
+    "foreignWord": "to save",
+    "category": "Technology"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "borrar",
+    "foreignWord": "to delete",
+    "category": "Technology"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "hacer click",
+    "foreignWord": "to click",
+    "category": "Technology"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "bajar/descargar",
+    "foreignWord": "—  to download",
+    "category": "Technology"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "buscar en Google",
+    "foreignWord": "—  search on Google",
+    "category": "Technology"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "pirata informático",
+    "foreignWord": "hacker",
+    "category": "Technology"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "contraseña",
+    "foreignWord": "password",
+    "category": "Technology"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la casa",
+    "foreignWord": "house, home",
+    "category": "Home Sweet Home!"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el hogar",
+    "foreignWord": "home",
+    "category": "Home Sweet Home!"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la habitación",
+    "foreignWord": "bedroom",
+    "category": "Home Sweet Home!"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el cuarto",
+    "foreignWord": "bedroom",
+    "category": "Home Sweet Home!"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el dormitorio",
+    "foreignWord": "bedroom",
+    "category": "Home Sweet Home!"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la sala",
+    "foreignWord": "living room",
+    "category": "Home Sweet Home!"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el comedor",
+    "foreignWord": "dining room",
+    "category": "Home Sweet Home!"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la cocina",
+    "foreignWord": "kitchen",
+    "category": "Home Sweet Home!"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el baño",
+    "foreignWord": "bathroom",
+    "category": "Home Sweet Home!"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el pasillo",
+    "foreignWord": "hallway",
+    "category": "Home Sweet Home!"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el jardín",
+    "foreignWord": "yard, garden",
+    "category": "Home Sweet Home!"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el garaje",
+    "foreignWord": "garage",
+    "category": "Home Sweet Home!"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "cómodo/a",
+    "foreignWord": "comfortable",
+    "category": "Home Sweet Home!"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "acogedor",
+    "foreignWord": "cozy",
+    "category": "Home Sweet Home!"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "desordenado/a",
+    "foreignWord": "messy",
+    "category": "Home Sweet Home!"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "limpio/a",
+    "foreignWord": "clean",
+    "category": "Home Sweet Home!"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la pasta de dientes",
+    "foreignWord": "toothpaste",
+    "category": "Bathroom "
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el cepillo de dientes",
+    "foreignWord": "toothbrush",
+    "category": "Bathroom "
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el jabón",
+    "foreignWord": "soap",
+    "category": "Bathroom "
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el secador de pelo",
+    "foreignWord": "hair dryer",
+    "category": "Bathroom "
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el champú",
+    "foreignWord": "shampoo",
+    "category": "Bathroom "
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el cepillo",
+    "foreignWord": "brush",
+    "category": "Bathroom "
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el papel higiénico",
+    "foreignWord": "toilet paper",
+    "category": "Bathroom "
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la toalla",
+    "foreignWord": "towel",
+    "category": "Bathroom "
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el agua jabonosa",
+    "foreignWord": "soapy water",
+    "category": "Bathroom "
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la bolsa de basura",
+    "foreignWord": "trash bag",
+    "category": "Bathroom "
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el cubo de basura",
+    "foreignWord": "trash can",
+    "category": "Bathroom "
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el cesto de la ropa sucia",
+    "foreignWord": "laundry basket",
+    "category": "Bathroom "
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la navaja de afeitar",
+    "foreignWord": "razor",
+    "category": "Bathroom "
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la maquinilla de afeitar eléctrica",
+    "foreignWord": "electric razor",
+    "category": "Bathroom "
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la crema de afeitar",
+    "foreignWord": "shaving cream",
+    "category": "Bathroom "
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el enjuague bucal",
+    "foreignWord": "mouthwash",
+    "category": "Bathroom "
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el cepillo de pelo",
+    "foreignWord": "hair brush",
+    "category": "Bathroom "
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el peine",
+    "foreignWord": "comb",
+    "category": "Bathroom "
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el limpiador facial",
+    "foreignWord": "facial cleanser",
+    "category": "Bathroom "
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la balanza",
+    "foreignWord": "scale",
+    "category": "Bathroom "
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el pañuelo de papel",
+    "foreignWord": "tissue",
+    "category": "Bathroom "
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "los juguetes de baño",
+    "foreignWord": "bath toys",
+    "category": "Bathroom "
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la alfombra de baño",
+    "foreignWord": "bath mat",
+    "category": "Bathroom "
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la ducha",
+    "foreignWord": "shower",
+    "category": "Bathroom "
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la bañera",
+    "foreignWord": "bathtub",
+    "category": "Bathroom "
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el fregadero",
+    "foreignWord": "sink",
+    "category": "Bathroom "
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el inodoro",
+    "foreignWord": "toilet",
+    "category": "Bathroom "
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el grifo",
+    "foreignWord": "faucet",
+    "category": "Bathroom "
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el espejo",
+    "foreignWord": "mirror",
+    "category": "Bathroom "
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "peinar",
+    "foreignWord": "to comb",
+    "category": "Bathroom "
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "cocinar",
+    "foreignWord": "to cook",
+    "category": "Kitchen Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "comer",
+    "foreignWord": "to eat",
+    "category": "Kitchen Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "adobar",
+    "foreignWord": "to marinate",
+    "category": "Kitchen Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "sazonar",
+    "foreignWord": "to season",
+    "category": "Kitchen Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "lavar",
+    "foreignWord": "to wash",
+    "category": "Kitchen Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "cortar",
+    "foreignWord": "to cut",
+    "category": "Kitchen Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "pelar",
+    "foreignWord": "to peel",
+    "category": "Kitchen Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "picar",
+    "foreignWord": "to chop",
+    "category": "Kitchen Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "moler",
+    "foreignWord": "to grind",
+    "category": "Kitchen Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "incorporar",
+    "foreignWord": "to add",
+    "category": "Kitchen Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "mezclar",
+    "foreignWord": "to mix",
+    "category": "Kitchen Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "catir",
+    "foreignWord": "to whisk",
+    "category": "Kitchen Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "licuar",
+    "foreignWord": "to blend",
+    "category": "Kitchen Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "combinar",
+    "foreignWord": "to combine",
+    "category": "Kitchen Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "freír",
+    "foreignWord": "to fry",
+    "category": "Kitchen Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "hervir",
+    "foreignWord": "to boil",
+    "category": "Kitchen Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "colar",
+    "foreignWord": "to strain",
+    "category": "Kitchen Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "cocer",
+    "foreignWord": "to cook",
+    "category": "Kitchen Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "hornear",
+    "foreignWord": "to bake",
+    "category": "Kitchen Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "asar",
+    "foreignWord": "to grill / roast",
+    "category": "Kitchen Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "saltear",
+    "foreignWord": "to saute",
+    "category": "Kitchen Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "preparar",
+    "foreignWord": "to prepare",
+    "category": "Kitchen Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "descongelar",
+    "foreignWord": "to defrost",
+    "category": "Kitchen Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "quemar",
+    "foreignWord": "to burn",
+    "category": "Kitchen Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "tostar",
+    "foreignWord": "to toast",
+    "category": "Kitchen Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "derretir",
+    "foreignWord": "to melt",
+    "category": "Kitchen Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "rodajear",
+    "foreignWord": "to slice",
+    "category": "Kitchen Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "calentar",
+    "foreignWord": "to warm up / heat",
+    "category": "Kitchen Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "rellenar",
+    "foreignWord": "to fill / stuff",
+    "category": "Kitchen Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "lavar",
+    "foreignWord": "to wash",
+    "category": "Kitchen Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "limpiar",
+    "foreignWord": "to clean",
+    "category": "Kitchen Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "desayunar",
+    "foreignWord": "to have breakfast",
+    "category": "Kitchen Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "cenar",
+    "foreignWord": "to have dinner",
+    "category": "Kitchen Verbs"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la puerta",
+    "foreignWord": "the door",
+    "category": "Bedroom "
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el armario",
+    "foreignWord": "the wardrobe",
+    "category": "Bedroom "
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la estantería — t",
+    "foreignWord": "heshelf",
+    "category": "Bedroom "
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la ventana — t",
+    "foreignWord": "hewindow",
+    "category": "Bedroom "
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "las cortinas",
+    "foreignWord": "the curtains",
+    "category": "Bedroom "
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el escritorio",
+    "foreignWord": "the desk",
+    "category": "Bedroom "
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el ordenador",
+    "foreignWord": "the computer",
+    "category": "Bedroom "
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la cama",
+    "foreignWord": "the bed",
+    "category": "Bedroom "
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el cojín",
+    "foreignWord": "the pillow",
+    "category": "Bedroom "
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el edredón",
+    "foreignWord": "the quilt",
+    "category": "Bedroom "
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "las sábanas",
+    "foreignWord": "the bedding",
+    "category": "Bedroom "
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la almohada",
+    "foreignWord": "the pillowcase",
+    "category": "Bedroom "
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la lámpara",
+    "foreignWord": "the lamp",
+    "category": "Bedroom "
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la mesilla de noche",
+    "foreignWord": "the night table or nightstand",
+    "category": "Bedroom "
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el espejo",
+    "foreignWord": "the mirror",
+    "category": "Bedroom "
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el cuadro",
+    "foreignWord": "the painting",
+    "category": "Bedroom "
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la puerta",
+    "foreignWord": "the door",
+    "category": "Living Room"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el armario",
+    "foreignWord": "the wardrobe",
+    "category": "Living Room"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la estantería",
+    "foreignWord": "the shelf",
+    "category": "Living Room"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la ventana",
+    "foreignWord": "the window",
+    "category": "Living Room"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "las cortinas",
+    "foreignWord": "the curtains",
+    "category": "Living Room"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la mesa",
+    "foreignWord": "the table",
+    "category": "Living Room"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la silla",
+    "foreignWord": "the chair",
+    "category": "Living Room"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el sillón",
+    "foreignWord": "armchair",
+    "category": "Living Room"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la alfombra",
+    "foreignWord": "the carpet or rug",
+    "category": "Living Room"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la lámpara",
+    "foreignWord": "the lamp",
+    "category": "Living Room"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la planta",
+    "foreignWord": "the plant",
+    "category": "Living Room"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "las flores",
+    "foreignWord": "the flowers",
+    "category": "Living Room"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la chimenea",
+    "foreignWord": "the chimney",
+    "category": "Living Room"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el suelo",
+    "foreignWord": "the ground",
+    "category": "Living Room"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el techo",
+    "foreignWord": "the ceiling",
+    "category": "Living Room"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "dependiente/a",
+    "foreignWord": "shop assistant",
+    "category": "Shopping"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "caja",
+    "foreignWord": "checkout",
+    "category": "Shopping"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "rebajas",
+    "foreignWord": "sales",
+    "category": "Shopping"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "ocasión",
+    "foreignWord": "bargain",
+    "category": "Shopping"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "recibo",
+    "foreignWord": "receipt",
+    "category": "Shopping"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "probadores",
+    "foreignWord": "dressing room",
+    "category": "Shopping"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "tamaño",
+    "foreignWord": "size",
+    "category": "Shopping"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "tienda de ropa",
+    "foreignWord": "clothing store",
+    "category": "Shopping"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "zapatería",
+    "foreignWord": "shoe store",
+    "category": "Shopping"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "librería",
+    "foreignWord": "bookstore",
+    "category": "Shopping"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "almacén",
+    "foreignWord": "department store",
+    "category": "Shopping"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "supermercado",
+    "foreignWord": "supermarket",
+    "category": "Shopping"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "joyería",
+    "foreignWord": "jeweler",
+    "category": "Shopping"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "juguetería",
+    "foreignWord": "toy store",
+    "category": "Shopping"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "almacenero(a)",
+    "foreignWord": "grocer",
+    "category": "Shopping"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "comerciante (a)",
+    "foreignWord": "merchant",
+    "category": "Shopping"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "tendero(a)",
+    "foreignWord": "shopkeeper",
+    "category": "Shopping"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "dependiente",
+    "foreignWord": "clerk",
+    "category": "Shopping"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "cajero(a)",
+    "foreignWord": "cashier",
+    "category": "Shopping"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "los cuidados de la salud",
+    "foreignWord": "healthcare",
+    "category": "Healthcare Professionals"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el dentista",
+    "foreignWord": "dentist",
+    "category": "Healthcare Professionals"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el doctor/a",
+    "foreignWord": "doctor",
+    "category": "Healthcare Professionals"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el enfermero/a",
+    "foreignWord": "nurse",
+    "category": "Healthcare Professionals"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el médico general",
+    "foreignWord": "general practitioner",
+    "category": "Healthcare Professionals"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el médico de cabecera",
+    "foreignWord": "general practitioner",
+    "category": "Healthcare Professionals"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el médico especialista",
+    "foreignWord": "specialist",
+    "category": "Healthcare Professionals"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el/la nutricionista",
+    "foreignWord": "nutritionist",
+    "category": "Healthcare Professionals"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el/la paciente",
+    "foreignWord": "patient",
+    "category": "Healthcare Professionals"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el/la paramédico",
+    "foreignWord": "paramedic",
+    "category": "Healthcare Professionals"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "quiropráctico(a)",
+    "foreignWord": "chiropractor",
+    "category": "Healthcare Professionals"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el/la pediatra",
+    "foreignWord": "pediatrician",
+    "category": "Healthcare Professionals"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el psicólogo/a",
+    "foreignWord": "psychologist",
+    "category": "Healthcare Professionals"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "los primeros auxilios",
+    "foreignWord": "first aid",
+    "category": "Healthcare Professionals"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la salud",
+    "foreignWord": "health",
+    "category": "Healthcare Professionals"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la ambulancia",
+    "foreignWord": "ambulance",
+    "category": "Healthcare Services"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la aseguradora",
+    "foreignWord": "insurance carrier",
+    "category": "Healthcare Services"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el centro de salud",
+    "foreignWord": "clinic",
+    "category": "Healthcare Services"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la clínica",
+    "foreignWord": "clinic",
+    "category": "Healthcare Services"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la farmacia",
+    "foreignWord": "drug store",
+    "category": "Healthcare Services"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "droguería",
+    "foreignWord": "drug store",
+    "category": "Healthcare Services"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el hospital",
+    "foreignWord": "hospital",
+    "category": "Healthcare Services"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el pabellón",
+    "foreignWord": "ward",
+    "category": "Healthcare Services"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la sala de espera",
+    "foreignWord": "waiting room",
+    "category": "Healthcare Services"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la sala de operaciones",
+    "foreignWord": "operating room",
+    "category": "Healthcare Services"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el sanatorio",
+    "foreignWord": "sanatorium",
+    "category": "Healthcare Services"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la alergía",
+    "foreignWord": "allergy",
+    "category": "Illnesses and Injuries"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la  asfixia",
+    "foreignWord": "suffocation",
+    "category": "Illnesses and Injuries"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el asma",
+    "foreignWord": "asthma",
+    "category": "Illnesses and Injuries"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el ataque al corazón/paro cardiaco",
+    "foreignWord": "heart attack",
+    "category": "Illnesses and Injuries"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el calambre",
+    "foreignWord": "muscle cramp",
+    "category": "Illnesses and Injuries"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el cancer",
+    "foreignWord": "cancer",
+    "category": "Illnesses and Injuries"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el chinchón",
+    "foreignWord": "head bump",
+    "category": "Illnesses and Injuries"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el corte",
+    "foreignWord": "cut",
+    "category": "Illnesses and Injuries"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la deshidratación",
+    "foreignWord": "dehydration",
+    "category": "Illnesses and Injuries"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la diabetes",
+    "foreignWord": "diabetes",
+    "category": "Illnesses and Injuries"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la diarrea",
+    "foreignWord": "diarrhea",
+    "category": "Illnesses and Injuries"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el dolor",
+    "foreignWord": "ache/pain",
+    "category": "Illnesses and Injuries"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el dolor de cabeza",
+    "foreignWord": "headache",
+    "category": "Illnesses and Injuries"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el dolor de garganta",
+    "foreignWord": "sore throat",
+    "category": "Illnesses and Injuries"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el dolor de estómago",
+    "foreignWord": "stomach ache",
+    "category": "Illnesses and Injuries"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el dolor de diente",
+    "foreignWord": "toothache",
+    "category": "Illnesses and Injuries"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la enfermedad",
+    "foreignWord": "disease",
+    "category": "Illnesses and Injuries"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la enfermedad cardiaca",
+    "foreignWord": "heart disease",
+    "category": "Illnesses and Injuries"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la enfermedad infecciosa",
+    "foreignWord": "infectious disease",
+    "category": "Illnesses and Injuries"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "los escalofríos",
+    "foreignWord": "shaking chills",
+    "category": "Illnesses and Injuries"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la fractura",
+    "foreignWord": "fracture",
+    "category": "Illnesses and Injuries"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la fiebre",
+    "foreignWord": "fever",
+    "category": "Illnesses and Injuries"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la gripe",
+    "foreignWord": "flu",
+    "category": "Illnesses and Injuries"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la herida",
+    "foreignWord": "wound",
+    "category": "Illnesses and Injuries"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la hipotermia",
+    "foreignWord": "hypothermia",
+    "category": "Illnesses and Injuries"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la infección",
+    "foreignWord": "infection",
+    "category": "Illnesses and Injuries"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el malestar",
+    "foreignWord": "discomfort",
+    "category": "Illnesses and Injuries"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el morete/moretón",
+    "foreignWord": "bruise",
+    "category": "Illnesses and Injuries"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la náusea",
+    "foreignWord": "nausea",
+    "category": "Illnesses and Injuries"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el raspón",
+    "foreignWord": "graze",
+    "category": "Illnesses and Injuries"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el resfriado",
+    "foreignWord": "cold",
+    "category": "Illnesses and Injuries"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el sangrado",
+    "foreignWord": "bleeding",
+    "category": "Illnesses and Injuries"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "la tos",
+    "foreignWord": "cough",
+    "category": "Illnesses and Injuries"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el virus",
+    "foreignWord": "virus",
+    "category": "Illnesses and Injuries"
+  },
+  {
+    "nativeLanguage": "es",
+    "foreignLanguage": "en",
+    "nativeWord": "el vomito",
+    "foreignWord": "vomit",
+    "category": "Illnesses and Injuries"
+  }
+]

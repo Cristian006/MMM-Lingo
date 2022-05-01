@@ -1,0 +1,15 @@
+{
+  "name": "lingo-sources",
+  "version": "1.0.0",
+  "description": "web scraper modules to get vocabulary translations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"  
+  },
+  "author": "cristian006",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^13.6.0"
+  }
+}

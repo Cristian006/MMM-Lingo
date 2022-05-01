@@ -24,7 +24,8 @@ Module.register('MMM-Lingo', {
       revert: false,
       color: false,
       width: '100%',
-      provider: 'custom'
+      provider: 'custom',
+      updateInterval: 250,
   },
 
   /**
@@ -151,7 +152,7 @@ Module.register('MMM-Lingo', {
                       span.style.opacity = countdownWidth / 100;
                   }
                   span.style.width = `${countdownWidth}%`;
-              }, 1000);
+              }, this.config.updateInterval);
 
               countdown.appendChild(span);
               wrapper.appendChild(countdown);

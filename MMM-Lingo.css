@@ -21,6 +21,7 @@
   background-color: #eee;
   position: relative;
   overflow: hidden;
+  transition: background-color 200ms ease-in;
 }
 
 .MMM-Lingo .bar > span.relax {

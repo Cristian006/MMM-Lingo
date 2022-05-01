@@ -113,6 +113,7 @@ Module.register('MMM-Lingo', {
           wrapper.classList.add('dimmed', 'light');
       } else {
           const word = document.createElement('div');
+          word.classList.add('main');
           word.classList.add('center');
           word.innerHTML = this.wordSet[this.word + 'Word'];
           

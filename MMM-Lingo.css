@@ -2,12 +2,15 @@
   text-align: center;
 }
 
+.MMM-Lingo .main {
+  margin-bottom: 12px;
+}
+
 .MMM-Lingo .heading {
   font-size: 12px;
 }
 
 .MMM-Lingo .bar {
-  margin-top: 8px;
   height: 5px;
   margin: 0 auto;
   position: relative;

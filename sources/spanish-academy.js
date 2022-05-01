@@ -44,10 +44,10 @@ const scraperObject = {
           const word = li.querySelector('em')?.textContent?.trim() ?? null;
           if (word && word != "") {
             return {
-              currentLanguage: "es",
-              targetLanguage: "en",
-              currentWord: word.replace(/[\—\- ]+$/, '').trim(),
-              targetWord: content.replace(word, '').replace(/[\—\- ]+/, '').trim(),
+              foreignLanguage: "es",
+              nativeLanguage: "en",
+              foreignWord: word.replace(/[\—\- ]+$/, '').trim(),
+              nativeWord: content.replace(word, '').replace(/[\—\- ]+/, '').trim(),
             }
           }
           return null;
@@ -60,11 +60,11 @@ const scraperObject = {
     console.log(lists);
     // console.log(categories);
     var data = JSON.stringify(lists);
-    fs.writeFile('es-en.json', data, 'utf8', (e) => {
+    fs.writeFile('MMM-Lingo-Starter.json', data, 'utf8', (e) => {
       if (e) {
         console.log(e);
       } else {
-        console.log('wrote to es-en.json')
+        console.log('wrote to MMM-Lingo-Starter.json')
       }
     });
 	}

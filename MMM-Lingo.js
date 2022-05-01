@@ -25,7 +25,7 @@ Module.register('MMM-Lingo', {
       color: false,
       width: '100%',
       provider: 'custom',
-      updateInterval: 250,
+      updateInterval: 1000,
   },
 
   /**

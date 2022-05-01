@@ -44,10 +44,10 @@ const scraperObject = {
           const word = li.querySelector('em')?.textContent?.trim() ?? null;
           if (word && word != "") {
             return {
-              foreignLanguage: "es",
-              nativeLanguage: "en",
-              foreignWord: word.replace(/[\—\- ]+$/, '').trim(),
-              nativeWord: content.replace(word, '').replace(/[\—\- ]+/, '').trim(),
+              nativeLanguage: "es",
+              foreignLanguage: "en",
+              nativeWord: word.replace(/[\—\- ]+$/, '').trim(),
+              foreignWord: content.replace(word, '').replace(/[\—\- ]+/, '').trim(),
             }
           }
           return null;

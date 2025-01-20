@@ -6,6 +6,10 @@
   margin-bottom: 10px;
   font-size: 24px;
   color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
 }
 
 .MMM-Lingo .heading {
@@ -40,4 +44,15 @@
 
 .MMM-Lingo .bar > span.hurryup {
   background-color: #d91e18;
+}
+
+.MMM-Lingo .word-pair {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.MMM-Lingo .word-separator {
+  font-size: 20px;
+  opacity: 0.7;
 }

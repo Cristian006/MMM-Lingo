@@ -29,6 +29,18 @@ Module.register('MMM-Lingo', {
   },
 
   /**
+   * @member {Object} languageFlags - Maps language codes to emoji flags 
+   */
+  languageFlags: {
+      es: '🇲🇽',
+      en: '🇺🇸',
+      fr: '🇫🇷',
+      de: '🇩🇪',
+      it: '🇮🇹',
+      pt: '🇵🇹',
+  },
+
+  /**
    * @function getTranslations
    * @description Translations for this module.
    * @override
@@ -113,14 +125,32 @@ Module.register('MMM-Lingo', {
           wrapper.classList.add('dimmed', 'light');
       } else {
           const word = document.createElement('div');
-          word.classList.add('main');
-          word.classList.add('center');
-          word.innerHTML = this.wordSet[this.word + 'Word'];
+          word.classList.add('main', 'center');
+          
+          // Create native word element
+          const nativeWordPair = document.createElement('div');
+          nativeWordPair.classList.add('word-pair');
+          const nativeFlag = this.languageFlags[this.wordSet.nativeLanguage] || '';
+          nativeWordPair.innerHTML = `${nativeFlag} ${this.wordSet.nativeWord}`;
+          
+          // Create separator
+          const separator = document.createElement('div');
+          separator.classList.add('word-separator');
+          separator.innerHTML = '⟷';
+          
+          // Create foreign word element
+          const foreignWordPair = document.createElement('div');
+          foreignWordPair.classList.add('word-pair');
+          const foreignFlag = this.languageFlags[this.wordSet.foreignLanguage] || '';
+          foreignWordPair.innerHTML = `${foreignFlag} ${this.wordSet.foreignWord}`;
+          
+          word.appendChild(nativeWordPair);
+          word.appendChild(separator);
+          word.appendChild(foreignWordPair);
           
           const heading = document.createElement('div');
-          heading.classList.add('center');
-          heading.classList.add('heading');
-          heading.innerHTML = this.wordSet['category']
+          heading.classList.add('center', 'heading');
+          heading.innerHTML = this.wordSet['category'];
 
           wrapper.appendChild(heading);
           wrapper.appendChild(word);

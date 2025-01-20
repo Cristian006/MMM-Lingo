@@ -16,6 +16,7 @@ Module.register('MMM-Lingo', {
    * @property {boolean} color - Use color for countdown bar.
    * @property {string} width - Countdown bar width.
    * @property {string} provider - API provider to use.
+   * @property {string} initialWord - Initial word to display.
    */
   defaults: {
       nativeTimeout: 10 * 1000,
@@ -26,6 +27,7 @@ Module.register('MMM-Lingo', {
       width: '100%',
       provider: 'custom',
       updateInterval: 1000,
+      initialWord: 'native',
   },
 
   /**
@@ -40,8 +42,8 @@ Module.register('MMM-Lingo', {
       pt: '🇵🇹',
   },
 
-  /** @member {string} displayState - Current display state (foreign, both, or transitioning) */
-  displayState: 'foreign',
+  /** @member {string} displayState - Current display state (single or both) */
+  displayState: 'single',
 
   /**
    * @function getTranslations
@@ -89,7 +91,7 @@ Module.register('MMM-Lingo', {
   socketNotificationReceived(notification, payload) {
       if (notification === 'WORDSET') {
           this.wordSet = payload;
-          this.displayState = 'foreign';
+          this.displayState = 'single';
           this.setCurrentWord();
           clearTimeout(this.wordSwitcher);
           this.wordSwitcher = setTimeout(() => {
@@ -136,11 +138,12 @@ Module.register('MMM-Lingo', {
           const word = document.createElement('div');
           word.classList.add('main', 'center');
           
-          // Create foreign word element first (always shown)
-          const foreignWordPair = document.createElement('div');
-          foreignWordPair.classList.add('word-pair');
-          const foreignFlag = this.languageFlags[this.wordSet.foreignLanguage] || '';
-          foreignWordPair.innerHTML = `${foreignFlag} ${this.wordSet.foreignWord}`;
+          // Create initial word element
+          const initialWordPair = document.createElement('div');
+          initialWordPair.classList.add('word-pair');
+          const initialLang = this.config.initialWord;
+          const initialFlag = this.languageFlags[this.wordSet[`${initialLang}Language`]] || '';
+          initialWordPair.innerHTML = `${initialFlag} ${this.wordSet[`${initialLang}Word`]}`;
           
           if (this.displayState === 'both') {
               // Create separator
@@ -148,17 +151,25 @@ Module.register('MMM-Lingo', {
               separator.classList.add('word-separator');
               separator.innerHTML = '⟷';
               
-              // Create native word element
-              const nativeWordPair = document.createElement('div');
-              nativeWordPair.classList.add('word-pair');
-              const nativeFlag = this.languageFlags[this.wordSet.nativeLanguage] || '';
-              nativeWordPair.innerHTML = `${nativeFlag} ${this.wordSet.nativeWord}`;
+              // Create second word element
+              const secondWordPair = document.createElement('div');
+              secondWordPair.classList.add('word-pair');
+              const secondLang = initialLang === 'native' ? 'foreign' : 'native';
+              const secondFlag = this.languageFlags[this.wordSet[`${secondLang}Language`]] || '';
+              secondWordPair.innerHTML = `${secondFlag} ${this.wordSet[`${secondLang}Word`]}`;
               
-              word.appendChild(nativeWordPair);
-              word.appendChild(separator);
+              if (initialLang === 'native') {
+                  word.appendChild(initialWordPair);
+                  word.appendChild(separator);
+                  word.appendChild(secondWordPair);
+              } else {
+                  word.appendChild(secondWordPair);
+                  word.appendChild(separator);
+                  word.appendChild(initialWordPair);
+              }
+          } else {
+              word.appendChild(initialWordPair);
           }
-          
-          word.appendChild(foreignWordPair);
           
           const heading = document.createElement('div');
           heading.classList.add('center', 'heading');

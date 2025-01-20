@@ -10,6 +10,8 @@
   justify-content: center;
   align-items: center;
   gap: 20px;
+  min-height: 40px;
+  transition: all 0.3s ease-in-out;
 }
 
 .MMM-Lingo .heading {
@@ -50,9 +52,12 @@
   display: flex;
   align-items: center;
   gap: 10px;
+  opacity: 1;
+  transition: opacity 0.3s ease-in-out;
 }
 
 .MMM-Lingo .word-separator {
   font-size: 20px;
   opacity: 0.7;
+  transition: opacity 0.3s ease-in-out;
 }

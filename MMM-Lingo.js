@@ -40,6 +40,9 @@ Module.register('MMM-Lingo', {
       pt: '🇵🇹',
   },
 
+  /** @member {string} displayState - Current display state (foreign, both, or transitioning) */
+  displayState: 'foreign',
+
   /**
    * @function getTranslations
    * @description Translations for this module.
@@ -86,11 +89,17 @@ Module.register('MMM-Lingo', {
   socketNotificationReceived(notification, payload) {
       if (notification === 'WORDSET') {
           this.wordSet = payload;
+          this.displayState = 'foreign';
           this.setCurrentWord();
           clearTimeout(this.wordSwitcher);
           this.wordSwitcher = setTimeout(() => {
-              this.setCurrentWord(true);
-          }, this.config.nativeTimeout);
+              this.displayState = 'both';
+              this.setCurrentWord();
+              // Set timer for next word
+              setTimeout(() => {
+                  this.sendSocketNotification('GET_NEXT_WORD');
+              }, this.config.nativeTimeout);
+          }, this.config.foreignTimeout);
       }
   },
 
@@ -127,25 +136,28 @@ Module.register('MMM-Lingo', {
           const word = document.createElement('div');
           word.classList.add('main', 'center');
           
-          // Create native word element
-          const nativeWordPair = document.createElement('div');
-          nativeWordPair.classList.add('word-pair');
-          const nativeFlag = this.languageFlags[this.wordSet.nativeLanguage] || '';
-          nativeWordPair.innerHTML = `${nativeFlag} ${this.wordSet.nativeWord}`;
-          
-          // Create separator
-          const separator = document.createElement('div');
-          separator.classList.add('word-separator');
-          separator.innerHTML = '⟷';
-          
-          // Create foreign word element
+          // Create foreign word element first (always shown)
           const foreignWordPair = document.createElement('div');
           foreignWordPair.classList.add('word-pair');
           const foreignFlag = this.languageFlags[this.wordSet.foreignLanguage] || '';
           foreignWordPair.innerHTML = `${foreignFlag} ${this.wordSet.foreignWord}`;
           
-          word.appendChild(nativeWordPair);
-          word.appendChild(separator);
+          if (this.displayState === 'both') {
+              // Create separator
+              const separator = document.createElement('div');
+              separator.classList.add('word-separator');
+              separator.innerHTML = '⟷';
+              
+              // Create native word element
+              const nativeWordPair = document.createElement('div');
+              nativeWordPair.classList.add('word-pair');
+              const nativeFlag = this.languageFlags[this.wordSet.nativeLanguage] || '';
+              nativeWordPair.innerHTML = `${nativeFlag} ${this.wordSet.nativeWord}`;
+              
+              word.appendChild(nativeWordPair);
+              word.appendChild(separator);
+          }
+          
           word.appendChild(foreignWordPair);
           
           const heading = document.createElement('div');

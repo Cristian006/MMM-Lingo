@@ -38,6 +38,8 @@ module.exports = NodeHelper.create({
             } else {
                 console.log(`${this.name}: Couldn't load provider ${this.config.provider}`);
             }
+        } else if (notification === 'GET_NEXT_WORD') {
+            this.sendWordSet();
         }
     },
 
